@@ -79,8 +79,6 @@ E POR FINAL TEMOS 1 MULHERES COM MENOS DE 20 ANOS
 **Marciel Carlos Medeiros de Oliveira**  
 [LinkedIn](https://www.linkedin.com/in/marciel-analytics/)  
 
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar!
